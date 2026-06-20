@@ -24,3 +24,13 @@ I then swapped out some stuff for terminals so that it's all easily replaceable 
 Here's what it looks like (now finished)
 
 <img width="1535" height="1065" alt="Screenshot 2026-06-11 at 7 00 14 PM" src="https://github.com/user-attachments/assets/68dd4935-4e35-4410-92ae-b2e1b119e77d" />
+
+Time Spent: 4 Hours
+
+# June 20 2026
+
+I did footprints and layout and a bit of routing.
+
+<img width="1070" height="1085" alt="Screenshot 2026-06-20 at 1 08 05 PM" src="https://github.com/user-attachments/assets/0d0935c4-83dd-435a-8db3-5cbf27410679" />
+
+Time Spent: 4 Hours
