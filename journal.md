@@ -37,5 +37,11 @@ I did footprints and layout and a bit of routing.
 So I wasn't happy with my layout, mostly because I organized by components and not by circuits. So I grouped each circuit up first, and placed them together like blocks. And it came out way better and I think the routing will be nicer too.
 <img width="855" height="780" alt="Screenshot 2026-06-20 at 1 41 12 PM" src="https://github.com/user-attachments/assets/6fd4b93a-6bb3-4e48-9b4a-23bf1b987837" />
 
+I then did the routing and it turned out looking really good! I'm happy with this, so I'm now going to move on to the coil itself. Which hopefully won't be too much of a pain but it is going to be a pain but it's okay because it's for Open Sauce.
 
-Time Spent: 5 Hours
+<img width="887" height="822" alt="Screenshot 2026-06-20 at 3 18 24 PM" src="https://github.com/user-attachments/assets/750b28db-ad48-4e8d-9e8e-7a6d68e861f9" />
+<img width="863" height="832" alt="Screenshot 2026-06-20 at 3 18 38 PM" src="https://github.com/user-attachments/assets/808b265a-3c37-4a0a-b4be-2b0917f22cdd" />
+
+
+
+Time Spent: 7 Hours
