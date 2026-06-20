@@ -43,5 +43,11 @@ I then did the routing and it turned out looking really good! I'm happy with thi
 <img width="863" height="832" alt="Screenshot 2026-06-20 at 3 18 38 PM" src="https://github.com/user-attachments/assets/808b265a-3c37-4a0a-b4be-2b0917f22cdd" />
 
 
+I calculated the coil values with JavaTC. Which is a hard AF tool to learn considering there are zero resources on this on the internet. I figured it out though and came up with a decent coil.
+
+<img width="1093" height="1144" alt="Screenshot 2026-06-20 at 3 53 32 PM" src="https://github.com/user-attachments/assets/5cb93be3-ef1d-47f6-aec2-19d2f9f4383f" />
+
+
 
 Time Spent: 7 Hours
+
