@@ -35,7 +35,7 @@ I did footprints and layout and a bit of routing.
 <img width="1070" height="1085" alt="Screenshot 2026-06-20 at 1 08 05 PM" src="https://github.com/user-attachments/assets/0d0935c4-83dd-435a-8db3-5cbf27410679" />
 
 So I wasn't happy with my layout, mostly because I organized by components and not by circuits. So I grouped each circuit up first, and placed them together like blocks. And it came out way better and I think the routing will be nicer too.
+<img width="855" height="780" alt="Screenshot 2026-06-20 at 1 41 12 PM" src="https://github.com/user-attachments/assets/6fd4b93a-6bb3-4e48-9b4a-23bf1b987837" />
 
-<img width="853" height="752" alt="Screenshot 2026-06-20 at 1 39 55 PM" src="https://github.com/user-attachments/assets/ca37d5a8-5dcf-4ce4-8451-76f6c1c1ee79" />
 
 Time Spent: 5 Hours
