@@ -1,3 +1,10 @@
+---
+title: "Helix"
+author: "Sidd"
+description: "Solid State Tesla Coil"
+created_at: "2026-06-21"
+total_time: "15 Hours"
+---
 
 
 # June 11 2026
@@ -66,5 +73,12 @@ Yes, I am advertising my engineering account on a tesla coil :)
 
 <img width="669" height="930" alt="Screenshot 2026-06-21 at 8 23 47 AM" src="https://github.com/user-attachments/assets/8534f0e4-fa05-4de3-83f1-35fece0a13ef" />
 
+Then I made the BOM which sucked. Since I can't use aliexpress, I had to use amazon, digikey, and ebay which are all a pain to use compared to my dear aliexpress.
+
+<img width="831" height="869" alt="Screenshot 2026-06-21 at 9 39 02 AM" src="https://github.com/user-attachments/assets/ddae1dea-f679-41d2-a59b-84d89c377314" />
+
+I'm gonna organize the repo now then submit
+
+Time Spent: 4 Hours
 
 
