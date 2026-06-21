@@ -57,3 +57,14 @@ I started out designing the topload, secondary, and primary in Fusion.
 
 <img width="621" height="919" alt="Screenshot 2026-06-21 at 7 51 07 AM" src="https://github.com/user-attachments/assets/82432b0f-47f5-4bab-b0c3-1a3a295d9b75" />
 
+I then made the enclosure and mounted electronics, etc. Did some polished and the CAD is finished!
+
+
+<img width="754" height="741" alt="Screenshot 2026-06-21 at 8 23 06 AM" src="https://github.com/user-attachments/assets/6fd1afa1-15e7-4e76-8764-2fe23dde0f42" />
+
+Yes, I am advertising my engineering account on a tesla coil :)
+
+<img width="669" height="930" alt="Screenshot 2026-06-21 at 8 23 47 AM" src="https://github.com/user-attachments/assets/8534f0e4-fa05-4de3-83f1-35fece0a13ef" />
+
+
+
