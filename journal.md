@@ -51,3 +51,9 @@ I calculated the coil values with JavaTC. Which is a hard AF tool to learn consi
 
 Time Spent: 7 Hours
 
+# June 21
+
+I started out designing the topload, secondary, and primary in Fusion. 
+
+<img width="621" height="919" alt="Screenshot 2026-06-21 at 7 51 07 AM" src="https://github.com/user-attachments/assets/82432b0f-47f5-4bab-b0c3-1a3a295d9b75" />
+
