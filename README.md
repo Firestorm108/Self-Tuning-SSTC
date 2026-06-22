@@ -2,6 +2,10 @@
 
 A solid state Tesla coil that utilizes a half-bridge configuration, automatic tuning through an antenna so that the coil is always in perfect resonance, and a 555-based interrupter. It runs straight off 120VAC with FGA60N65 IGBTs, allowing it to push many many watts. This should make for a good display at Open Sauce 2026.
 
+# Warning
+
+Please do NOT make this under any circumstances unless you are experienced in the field. While this is a solid state coil, it runs off 340VDC from mains and is lethal to anyone who doesn't know what they are doing. I recommened starting with a simple slayer exciter circuit or low voltage primary SSTC circuits. I do not hold any responsibility for what you choose to do with this information.
+
 ## Main Features:
 
  - Integrated 340VDC and 12VDC power supplies
