@@ -6,6 +6,10 @@ A solid state Tesla coil that utilizes a half-bridge configuration, automatic tu
 
 Please do NOT make this under any circumstances unless you are experienced in the field. While this is a solid state coil, it runs off 340VDC from mains and is lethal to anyone who doesn't know what they are doing. I recommened starting with a simple slayer exciter circuit or low voltage primary SSTC circuits. I do not hold any responsibility for what you choose to do with this information.
 
+
+Demo: https://www.instagram.com/p/DbAHNh3O-ZV/
+
+
 ## Main Features:
 
  - Integrated 340VDC and 12VDC power supplies
