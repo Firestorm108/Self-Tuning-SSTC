@@ -81,4 +81,25 @@ I'm gonna organize the repo now then submit
 
 Time Spent: 4 Hours
 
+# July 7 2026
+
+I made the 340VDC bus power supply and the 12V logic power supply.
+
+<img width="3024" height="4032" alt="IMG_6355" src="https://github.com/user-attachments/assets/444dddb2-220c-4d65-85f7-f7404503899c" />
+
+Time Spent: 3 Hours
+
+# July 10-11
+
+I kinda pulled an all nighter because I needed this done for outpost, and I made the entire driver, wound the coils, and just finished lol.
+
+
+
+<img width="3024" height="4032" alt="IMG_6372 2" src="https://github.com/user-attachments/assets/9f34bdf2-b591-467b-9c9a-dcbdd12bc907" />
+
+
+<img width="3024" height="4032" alt="IMG_6371 2" src="https://github.com/user-attachments/assets/897d29a9-abd9-41be-ae27-9bdf86ad6972" />
+<img width="3024" height="4032" alt="IMG_6370 2" src="https://github.com/user-attachments/assets/435ab9f9-52fe-40ab-bed9-29d9065470b7" />
+
+Time Spent: 18 Hours
 
