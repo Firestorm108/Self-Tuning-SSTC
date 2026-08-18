@@ -3,7 +3,7 @@ title: "Helix"
 author: "Sidd"
 description: "Solid State Tesla Coil"
 created_at: "2026-06-21"
-total_time: "15 Hours"
+total_time: "36 Hours"
 ---
 
 
