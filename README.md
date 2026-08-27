@@ -20,6 +20,9 @@ Demo: https://www.instagram.com/p/DbAHNh3O-ZV/
  - FGA60N65 based
 
 ## Pictures:
+![Uploading Screenshot 2026-08-27 at 1.44.31 PM.png…]()
+
+
 
 <img width="741" height="991" alt="Screenshot 2026-06-21 at 9 43 33 AM" src="https://github.com/user-attachments/assets/f5346b8b-d8e4-4ce8-880e-af10c5b53e80" />
 <img width="832" height="784" alt="Screenshot 2026-06-21 at 9 43 23 AM" src="https://github.com/user-attachments/assets/9c65cf13-f426-4050-baec-2a1e91af6780" />
